@@ -15,7 +15,7 @@ AIHyperXScan is an advanced AI-powered blockchain transaction analyzer and cross
 ### Technical Flow Diagram
 Below is the architecture diagram illustrating how AIHyperXScan processes transaction analysis:
 
-![AIHyperXScan Architecture](./aihyperxscan.png)
+![AIHyperXScan Architecture](./aiHyperXScan.png)
 
 ### Components Breakdown
 1. **Client**: Sends transaction hash or address details for analysis.
